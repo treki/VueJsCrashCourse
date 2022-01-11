@@ -1,0 +1,12 @@
+img{
+    width: 20%;
+    
+}
+.male {
+    border-color: rgb(28, 105, 173);
+    background-color:rgb(28, 105, 173);
+}
+.female {
+    border-color: rgb(200, 66, 240);
+    background-color:rgb(200, 66, 240);
+}
